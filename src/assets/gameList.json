@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Dota 2",
+    "icon": "https://lenovogaming.pl/media/cms_article/image/60-1126-large/dota-2-poradnik-dla-poczatkujacych-jak-grac-lepiej-w-dota-2.jpg?ts=1646204817",
+    "category": "MOBA",
+    "textMain": "Dota 2 is a multiplayer online battle arena (MOBA) video game developed and published by Valve. The game is a sequel to Defense of the Ancients (DotA), which was a community-created mod for Blizzard Entertainment's Warcraft III: Reign of Chaos. Dota 2 is played in matches between two teams of five players, with each team occupying and defending their own separate base on the map. Each of the ten players independently controls a powerful character known as a hero that all have unique abilities and differing styles of play. During a match players collect experience points and items for their heroes to successfully defeat the opposing team's heroes in player versus player combat. A team wins by being the first to destroy the other team's Ancient, a large structure located within their base.",
+    "price": "Free to Play",
+    "author": "Valve",
+    "hero": "https://www.gamewallpapers.com/download.php?img=wallpaper_dota_2_01_1920x1080.jpg",
+    "path": "dota2"
+  },
+  {
+    "id": 2,
+    "name": "League of Legends",
+    "icon": "https://www.creocommunity.pl/wp-content/uploads/2022/04/Przewodnik-i-wskazowki-jak-zaczac-grac-w-League-of-Legends.jpg",
+    "category": "MOBA",
+    "textMain": "League of Legends (LoL), commonly referred to as League, is a 2009 multiplayer online battle arena video game developed and published by Riot Games. Inspired by Defense of the Ancients, a custom map for Warcraft III, Riot's founders sought to develop a stand-alone game in the same genre. Since its release in October 2009, League has been free-to-play and is monetized through purchasable character customization. The game is available for Microsoft Windows and macOS.",
+    "price": "Free to Play",
+    "author": "Riot",
+    "hero": "https://i.pinimg.com/originals/0f/1e/47/0f1e47f3f9daff00feafc4fc7b242355.jpg",
+    "path": "lol"
+  },
+  {
+    "id": 3,
+    "name": "Heroes of Newerth",
+    "icon": "https://pbs.twimg.com/profile_images/2703035926/199646d32420528e6044064fb55d5266_400x400.jpeg",
+    "category": "MOBA",
+    "textMain": "Heroes of Newerth (HoN) was a multiplayer online battle arena (MOBA) video game originally developed by S2 Games for Microsoft Windows, Mac OS X, and Linux.[1] The game idea was derived from the Warcraft III: The Frozen Throne custom map Defense of the Ancients and was S2 Games' first MOBA title.[2] The game was released on May 12, 2010, and re-released as a free-to-play game on July 29, 2011.[3] On May 5, 2015, Heroes of Newerth development duties passed to Frostburn Studios, with the development team moving over to the new company.[4] The service ceased operations on June 20, 2022.",
+    "price": "Free to Play",
+    "author": "S2 Games",
+    "hero": "https://cutewallpaper.org/22/heroes-of-newerth-wallpapers/1992214802.jpg",
+    "path": "hon"
+  },
+  {
+    "id": 4,
+    "name": "The Witcher 3 : Wild Hunt",
+    "icon": "https://image.api.playstation.com/vulcan/img/rnd/202009/2913/TQKAd8U6hnIFQIIcz6qnFh8C.png",
+    "category": "Role-play",
+    "textMain": "The Witcher 3: Wild Hunt[a] is an action role-playing video game developed by Polish developer CD Projekt Red, and first published in 2015. It is the sequel to the 2011 game The Witcher 2: Assassins of Kings and the third game in The Witcher video game series, played in an open world with a third-person perspective. The games are based on The Witcher series of fantasy novels written by Andrzej Sapkowski.",
+    "price": "30$",
+    "author": "CD Project Red",
+    "hero": "https://i.ytimg.com/vi/2Ybogggyl0Y/maxresdefault.jpg",
+    "path": "thewitcher3"
+  },
+  {
+    "id": 5,
+    "name": "Among Us",
+    "icon": "https://cdn1.epicgames.com/salesEvent/salesEvent/amoguslandscape_2560x1440-3fac17e8bb45d81ec9b2c24655758075",
+    "category": "AAA",
+    "textMain": "Among Us to internetowa gra wieloosobowa z oceną PEGI 7, która pozwala maksymalnie 10 graczom wcielić się w rolę „członka załogi” lub „oszusta”. Celem gry jest zidentyfikowanie przez członków załogi graczy, którzy są oszustami w grze.",
+    "price": "10$",
+    "author": "InnerSloth",
+    "hero": "https://planetagracza.pl/wp-content/uploads/2020/11/among-us-pg.jpg",
+    "path": "amongus"
+  },
+  {
+    "id": 6,
+    "name": "Apex Legends",
+    "icon": "https://cdn.akamai.steamstatic.com/steam/apps/1172470/capsule_616x353.jpg?t=1653320846",
+    "category": "Battle royale-hero shooter",
+    "textMain": "pex Legends is a free-to-play battle royale-hero shooter game developed by Respawn Entertainment and published by Electronic Arts. It was released for Microsoft Windows, PlayStation 4, and Xbox One in February 2019, for Nintendo Switch in March 2021, and for PlayStation 5 and Xbox Series X/S in March 2022. A mobile version of the game specially designed for touchscreens titled Apex Legends Mobile has also been announced which was released May 17, 2022 on Android and iOS. The game supports cross-platform play, excluding the mentioned mobile platforms.    ",
+    "price": "Free to Play",
+    "author": "Respawn Entertainment",
+    "hero": "https://images6.alphacoders.com/992/thumb-1920-992033.jpg",
+    "path": "apexlegends"
+  },
+  {
+    "id": 7,
+    "name": "CS GO",
+    "icon": "https://basestack.gg/wp-content/uploads/2021/07/CSGO_Tournaments_2.jpg",
+    "category": "Shooter",
+    "textMain": "Counter-Strike: Global Offensive (CS:GO) is a 2012 multiplayer first-person shooter developed by Valve and Hidden Path Entertainment. It is the fourth game in the Counter-Strike series. Developed for over two years, Global Offensive was released for Windows, macOS, Xbox 360, and PlayStation 3 in August 2012, and for Linux in 2014. Valve still regularly updates the game, both with smaller balancing patches and larger content additions.",
+    "price": "Free to Play",
+    "author": "Valve",
+    "hero": "https://gamingsociety.pl/wp-content/uploads/2019/10/csgo.jpg",
+    "path": "csgo"
+  },
+  {
+    "id": 8,
+    "name": "Fall Guys",
+    "icon": "https://cdn1.epicgames.com/offer/50118b7f954e450f8823df1614b24e80/pl-PL_FallGuysSS1_OfferImage_2560x1440_2560x1440-fbe4c862dea34a41d9e88366869f4abc",
+    "category": "Platform battle royale",
+    "textMain": "Fall Guys (formerly Fall Guys: Ultimate Knockout)[1] is a platform battle royale game developed by Mediatonic. The game involves up to 60 players who control jellybean-like creatures and compete against each other in a series of randomly selected mini-games, such as obstacle courses or tag. Players are eliminated as the rounds progress until, eventually, the last remaining player is crowned the winner.",
+    "price": "Free to Play",
+    "author": "Mediatonic",
+    "hero": "https://d2ofqe7l47306o.cloudfront.net/games/1920x1080/fall-guys-season-6.jpg",
+    "path": "fallguys"
+  },
+  {
+    "id": 9,
+    "name": "Elden Ring",
+    "icon": "https://image.api.playstation.com/vulcan/ap/rnd/202107/1612/Y5RHNmzAtc6sRYwZlYiKHAxN.png",
+    "category": "Action role-playing",
+    "textMain": "Elden Ring[a] is a 2022 action role-playing game developed by FromSoftware and published by Bandai Namco Entertainment. It was directed by Hidetaka Miyazaki and made in collaboration with the fantasy novelist George R. R. Martin, who provided material for the setting. It was released for PlayStation 4, PlayStation 5, Windows, Xbox One, and Xbox Series X/S on February 25.",
+    "price": "60$",
+    "author": "FromSoftware",
+    "hero": "https://sm.ign.com/ign_pl/screenshot/default/elden-ring-1_bxuz.jpg",
+    "path": "eldenring"
+  },
+  {
+    "id": 10,
+    "name": "Dark Souls III",
+    "icon": "https://cdn-products.eneba.com/resized-products/BjdEY6u_350x200_1x-0.jpg",
+    "category": "Action role-playing",
+    "textMain": "Dark Souls III[a] is a 2016 action role-playing video game developed by FromSoftware and published by Bandai Namco Entertainment for PlayStation 4, Xbox One, and Windows. It is the fourth overall entry of the Souls series and the final installment of the Dark Souls trilogy. Played in a third-person perspective, players have access to various weapons, armour, magic, and consumables that they can use to fight their enemies. Hidetaka Miyazaki, the creator of the series, returned to direct the game after handing the development duties of Dark Souls II to others in FromSoftware.",
+    "price": "30$",
+    "author": "FromSoftware",
+    "hero": "https://s1.1zoom.me/b5050/674/Knight_Dark_Souls_III_Armor_Swords_536494_1920x1080.jpg",
+    "path": "darksouls3"
+  }
+]

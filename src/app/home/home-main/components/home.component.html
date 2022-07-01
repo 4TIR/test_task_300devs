@@ -1,0 +1,19 @@
+
+<div class=" relative bg-slate-700 min-h-[100vh]">
+    <div class="w-full flex justify-end bg-white">
+        <mat-form-field class="mr-5" appearance="legacy">
+            <mat-label>Search for game</mat-label>
+            <input type="text" matInput placeholder=""   [formControl]="searchFormControl">
+            <i class="material-icons" matSuffix>search</i>
+          </mat-form-field>
+    </div>
+    <div class=" sm:ml-5 sm:mr-5  p-5 flex flex-wrap justify-center">
+        <ng-container *ngFor="let item of filteredItems">
+            <div (click)="navigateToDetails(item.id)" class="flex flex-col items-center mr-5  mb-10" > 
+                <img src="{{item.icon}}" alt="" class="w-64 h-64 mb-5 object-cover">
+                <p class="text-white text-lg">{{item.name}}</p>
+            </div>
+        </ng-container>
+    </div>
+
+</div>
